@@ -1,0 +1,90 @@
+/* ==================
+COLORS MATCHED VIA:
+https://html-color-codes.info/colors-from-image/#
+========================== */
+/*CSS reset settings here*/
+*{
+  margin: 0px;
+  padding: 0px;
+  /* outline: 1px dotted red; */
+}
+
+#wrapper{
+  width: 970px;
+  height: auto;
+  /* background: linear-gradient(#F6F6F6, #CECECE); */
+  background-color: white;
+  /* background-color: orange; */
+  margin: 5px;
+  padding: 5px; /* 20px 20px 20px 20px; */
+  text-align: left;
+  border: 1px solid #C8C8C8;
+  border-radius: 3px;
+}
+
+h4{
+  font-size: 48pt;
+  color: black;
+  font-weight: 700;
+}
+
+.resize{
+  margin: 10px 5px 0px 5px;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid #CEC19E;
+  border-radius: 3px;
+}
+
+#navbar{
+  width: auto;
+  height: auto;
+  text-align: center;
+  margin: 5px;
+  border: 0px;
+  padding: 5px;
+  border: 1px solid #C8C8C8;
+  border-radius: 3px;
+}
+
+#header{
+  height: 50px;
+  background-color: #B3B3B3;
+}
+
+#content{
+  background-color: #CCCCCC;
+}
+
+#footer{
+  height: 100px;
+  background-color: #FFFF99;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 480px){
+  #wrapper{
+    width: auto;
+  }
+  h1{ display: none; }
+  h2{ display: none; }
+  h3{ display: block; }
+  h4{ font-size: 18pt; }
+}
+@media only screen and (min-width: 481px){
+  #wrapper{
+    width: auto;
+  }
+  h1{ display: none; }
+  h2{ display: block; }
+  h3{ display: none; }
+  h4{ font-size: 22pt; }
+}
+@media only screen and (min-width: 1024px){
+  #wrapper{
+    width: 970px;
+  }
+  h1{ display: block; }
+  h2{ display: none; }
+  h3{ display: none; }
+  h4{ font-size: 28pt; }
+}
