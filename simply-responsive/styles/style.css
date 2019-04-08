@@ -1,45 +1,26 @@
-/* ==================
-COLORS MATCHED VIA:
-https://html-color-codes.info/colors-from-image/#
-========================== */
-/*CSS reset settings here*/
 *{
   margin: 0px;
   padding: 0px;
   /* outline: 1px dotted red; */
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-  /* font-size: 23px;  */
   font-style: normal; 
   font-variant: normal; 
-  /* font-weight: 700;  */
-  /* line-height: 23px; */
+  background-color: white;
 }
-
-/* h1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
-h3 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
-p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
-blockquote { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
-pre { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } */
-
 
 #wrapper{
   width: auto;
   height: auto;
-  /* background: linear-gradient(#F6F6F6, #CECECE); */
-  background-color: white;
-  /* background-color: orange; */
   margin: 5px;
-  padding: 5px; /* 20px 20px 20px 20px; */
+  padding: 5px;
   text-align: left;
-  border: 1px solid #C8C8C8;
   border-radius: 3px;
 }
 
-/* h4{
-  font-size: 48pt;
-  color: black;
-  font-weight: 700;
-} */
+a {
+  color: black; 
+  text-decoration: none;
+}
 
 
 ul {
@@ -48,20 +29,22 @@ ul {
 
 p { 
   text-indent: 1em;
-  background: powderblue;
 }
 
 .bold{
   font-weight: 700;
 }
 
-
 .resize{
   margin: 10px 5px 0px 5px;
   padding: 10px 10px 10px 10px;
-  border: 1px solid #CEC19E;
   border-radius: 3px;
 }
+
+.bordered{
+  border: 1px solid #C8C8C8;
+}
+
 
 #navbar{
   width: auto;
@@ -70,41 +53,26 @@ p {
   margin: 5px;
   border: 0px;
   padding: 5px;
-  border: 1px solid #C8C8C8;
   border-radius: 3px;
 }
 
 #header{
   height: auto;
-  background-color: #B3B3B3;
 }
 
-#content{
-  background-color: #CCCCCC;
-}
 
 #footer{
   height: 100px;
-  background-color: #FFFF99;
   margin-bottom: 20px;
 }
-
 
 
 #ad-low{
   margin-bottom:20px;
 }
 
-.advertisement{
-  /* height: 35px; */
-  /* width: 660px; */
-  background-color: white;
-  color: black;
+.linktome{
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
-  /* need to put margin between subcontents and adv */
-  /* margin-top: 10px;  */
   padding-top: 10px;
 }
 
@@ -146,6 +114,4 @@ p {
   h5{ font-size: 24pt; }
   h6{ font-size: 12pt; }
 }
-
-
 
