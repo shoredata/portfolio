@@ -1,0 +1,17 @@
+GE Fanuc Acquires CimWorks GageTalker
+Source: CimWorks, a GE Fanuc Company
+Expands OpenFactory CNC and manufacturing productivity software offerings.
+
+GE Fanuc Automation North America Inc (Charlottesville, VA) has acquired CimWorks GageTalker (Kirkland, WA). The acquisition will expand GE Fanuc's offering of solutions to its customers. The CimWorks GageTalker manufacturing software and hardware product lines complement GE Fanuc's OpenFactory CNC, Cimplicity, and general automation products.
+
+"Integrating CimWorks GageTalker's hardware and software with GE Fanuc's OpenFactory CNCs and Cimplicity software allows customers to better share quality and productivity data, ranging from individual machines to enterprisewide information systems," says Jeffrey Kao, manager of GE Fanuc's CNC Business. "The strong reputation of the CimWorks GageTalker products makes them a powerful addition to our family and will provide our combined customer base with new levels of quality and functionality."
+
+According to Eric Berg, president of GageTalker who will continue to lead the organization: "The integration of CimWorks GageTalker into the GE Fanuc organization is a perfect partnership," comments Eric Berg. "Both organizations share a similar commitment to helping manufacturers improve productivity and reduce costs. CimWorks GageTalker contributes to GE Fanuc's ability to provide complete manufacturing solutions with our innovative computer integrated manufacturing software and hardware products. For us, being part of an outstanding global organization and world-class supplier of industrial automation products will bring significant benefits to our customers—a broader range of product offerings, complete system solutions, and worldwide customer support."
+
+CimWorks GageTalker will operate as a wholly owned subsidiary of GE Fanuc. Founded in 1978, GageTalker provides flexible hardware, software and service products that enable manufacturers to monitor and control the performance of their production equipment and products during the manufacturing process. The company's established products include flexible solutions for the paperless factory, with systems for Machine Event Monitoring (MEM), Distributed Numerical Control (DNC), Statistical Process Control (SPC), gage interface, document management and control, shop floor data collection, and industrial PCs.
+
+GE Fanuc Automation North America Inc is a leading global supplier of industrial control systems and is a joint venture between GE and FANUC, Ltd. of Japan. Headquartered in Charlottesville, VA, GE Fanuc is part of GE Industrial Systems, a $5-billion manufacturer of products and systems used to distribute, protect, control and operate electrical equipment for commercial, utility and industrial applications. The company's products and services include Cimplicity monitoring and control software, micro to high-end PLCs, a wide range of CNCs, motion control systems, CO2 and YAG lasers, and a wide range of integration and customer support services.
+
+CimWorks, a GE Fanuc Company, 11415 NE 128th Street, Kirkland, WA 98034; phone: 800-955-7100
+
+GE Fanuc Automation North America Inc, Route 606 and Route 29 North, Charlottesville, VA 22911; phone: 800-648-2001

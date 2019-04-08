@@ -7,10 +7,23 @@ https://html-color-codes.info/colors-from-image/#
   margin: 0px;
   padding: 0px;
   /* outline: 1px dotted red; */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  /* font-size: 23px;  */
+  font-style: normal; 
+  font-variant: normal; 
+  /* font-weight: 700;  */
+  /* line-height: 23px; */
 }
 
+/* h1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
+h3 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } 
+p { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
+blockquote { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } 
+pre { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } */
+
+
 #wrapper{
-  width: 970px;
+  width: auto;
   height: auto;
   /* background: linear-gradient(#F6F6F6, #CECECE); */
   background-color: white;
@@ -22,11 +35,26 @@ https://html-color-codes.info/colors-from-image/#
   border-radius: 3px;
 }
 
-h4{
+/* h4{
   font-size: 48pt;
   color: black;
   font-weight: 700;
+} */
+
+
+ul {
+  list-style-type: none;
 }
+
+p { 
+  text-indent: 1em;
+  background: powderblue;
+}
+
+.bold{
+  font-weight: 700;
+}
+
 
 .resize{
   margin: 10px 5px 0px 5px;
@@ -47,7 +75,7 @@ h4{
 }
 
 #header{
-  height: 50px;
+  height: auto;
   background-color: #B3B3B3;
 }
 
@@ -61,6 +89,30 @@ h4{
   margin-bottom: 20px;
 }
 
+
+
+#ad-low{
+  margin-bottom:20px;
+}
+
+.advertisement{
+  /* height: 35px; */
+  /* width: 660px; */
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* need to put margin between subcontents and adv */
+  /* margin-top: 10px;  */
+  padding-top: 10px;
+}
+
+.link-img{
+  width: 35px;
+}
+
+
 @media only screen and (max-width: 480px){
   #wrapper{
     width: auto;
@@ -69,6 +121,8 @@ h4{
   h2{ display: none; }
   h3{ display: block; }
   h4{ font-size: 18pt; }
+  h5{ font-size: 16pt; }
+  h6{ font-size: 14pt; }
 }
 @media only screen and (min-width: 481px){
   #wrapper{
@@ -78,13 +132,20 @@ h4{
   h2{ display: block; }
   h3{ display: none; }
   h4{ font-size: 22pt; }
+  h5{ font-size: 20pt; }
+  h6{ font-size: 18pt; }
 }
 @media only screen and (min-width: 1024px){
   #wrapper{
-    width: 970px;
+    width: auto;
   }
   h1{ display: block; }
   h2{ display: none; }
   h3{ display: none; }
-  h4{ font-size: 28pt; }
+  h4{ font-size: 26pt; }
+  h5{ font-size: 24pt; }
+  h6{ font-size: 12pt; }
 }
+
+
+
